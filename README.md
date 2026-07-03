@@ -22,15 +22,7 @@ Chat Service является центральным сервисом систе
 
 ## Архитектура
 
-```
-                Router Service
-                       │
-                       ▼
-                Chat Service
-                /          \
-               ▼            ▼
-Storage Service    LLM Adapter Service
-```
+<img width="985" height="461" alt="architecture" src="https://github.com/user-attachments/assets/33ca6ad7-c14c-4902-9701-5a83a017f852" />
 
 ---
 
